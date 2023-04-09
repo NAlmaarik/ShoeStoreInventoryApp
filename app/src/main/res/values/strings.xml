@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShoeStoreInventoryApp</string>
+    <string name="enter_email">Please Enter Your E-mail</string>
+    <string name="enter_password">Please Enter Your Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_title">Welcome To Our Shoes Store</string>
+    <string name="welcome_message">Our Shoes Store Application Is First In It Is Kind That Contains The Newest, Most Popular shoes Brands.</string>
+    <string name="next">Next</string>
+    <string name="how_to_use_the_app">How To Use The Shoes Store Application</string>
+    <string name="instructions_info">In The Next Screen You Will See A List Of Different Shoes. Each With It Is Name, Company Name,Size,and Description. In addition, You Will Be Able To Add A New Shoes By Pressing The Floating Button.</string>
+    <string name="shoe_name">Please Enter The Shoe Name:</string>
+    <string name="shoe_company">Please Enter The Shoe Company:</string>
+    <string name="shoe_size">Please Enter The Shoe Size:</string>
+    <string name="shoe_description">Please Enter The Shoe Description:</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="log_out">Logout</string>
+    <string name="shoe_description_text_view">%s\n\n</string>
+</resources>
